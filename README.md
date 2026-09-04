@@ -75,3 +75,7 @@ src/
 - Build out Zustand stores for each product module.
 - Implement Planner and Faith & Verses workflows on top of the initialized schema.
 - Add Goals & Streaks, Exercise, Language, Opportunities, and Weekly Reflection modules.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
